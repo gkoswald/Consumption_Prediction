@@ -1,7 +1,11 @@
 # Improvements to Consumption Prediction
 
-These Jupyter Notebooks contain a portion of the associated code to the paper *Improvements to Consumption Prediction: Machine Learning Methods and Novel Features*. 
+This repository contains the paper *Improvements to Consumption Prediction: Machine Learning Methods and Novel Features* as well as reference code and associated data.
 
+*Improvements to Consumption Prediction: Machine Learning Methods and Novel Features* was published in the SMU Data Science Review in 2018.
+Link: https://scholar.smu.edu/datasciencereview/vol1/iss4/
+
+These Jupyter Notebooks contain a portion of the associated code for the paper.
 * Economic variable stationarity:  pce_econ_stat.ipynb 
 * Sentiment variable stationarity:  pce_sent_stat.ipynb
 * Vector Autoregression (VAR) models:  pce_var_model.ipynb
@@ -12,6 +16,8 @@ These Jupyter Notebooks contain a portion of the associated code to the paper *I
 Python 3.*
 	
 Anaconda Python distribution (recommended)
+
+Conda Environments
 	
 Additional Python packages (included with Anaconda distribution)
     -jupyter
